@@ -1,0 +1,32 @@
+h1 {
+    font-family: 'Kaushan Script', cursive;
+    color: rgb(152, 240, 29);
+}
+
+p {
+    color: rgb(152, 240, 29);
+}
+
+h2 {
+    font-family: 'Cinzel', serif;
+    color: crimson;
+}
+
+nav {
+    border-bottom: whitesmoke solid 5px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+
+.hero{
+    height: 100%;
+    width: 100%;
+}
+
+.form-label{
+    color: rgb(109, 145, 60);
+}
